@@ -1,2 +1,2 @@
-Nombre: Mario
-Correo: mario@example.com
+Nombre: Marius
+Correo: marius@email.com
